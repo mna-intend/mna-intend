@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **software developer** who loves 
 - ⚡ Fun fact every developer knows: It worked yesterday.
 - 💡 Philosophy: "Code is not just what you write; it’s what you leave behind."
 - 😈 Evil fun: Make error messages green.
-https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg
+
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
