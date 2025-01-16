@@ -40,3 +40,7 @@ Welcome to my GitHub profile! I'm a passionate **software developer** who loves 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mna-intend&show_icons=true&hide_title=true&include_all_commits=true&theme=highcontrast)
 
 ---
+
+![look](https://i.imgur.com/Q3cUg29.gif)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mna-intend&label=Profile%20views&color=0e75b6&style=flat" alt="mna-intend" /> </p>
