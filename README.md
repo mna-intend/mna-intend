@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **software developer** who loves 
 <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="60" height="60"></a>
 <a href="https://mui.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="60" height="60"></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60"></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="DotNet" width="60" height="60"></a>
 </p>
 
 ---
